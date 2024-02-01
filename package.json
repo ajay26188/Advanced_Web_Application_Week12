@@ -1,0 +1,20 @@
+{
+  "name": "week_12",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "install": "cd client && npm install",
+    "dev:client": "cd client && npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajay26188/Advanced_Web_Application_Week12.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajay26188/Advanced_Web_Application_Week12/issues"
+  },
+  "homepage": "https://github.com/ajay26188/Advanced_Web_Application_Week12#readme"
+}
