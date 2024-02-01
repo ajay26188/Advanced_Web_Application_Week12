@@ -6,7 +6,10 @@
   "scripts": {
     "start": "cd client && npm start",
     "install": "cd client && npm install",
-    "dev:client": "cd client && npm start"
+    "dev:client": "cd client && npm start",
+    "preinstall": "cd server && npm install",
+    "dev:server": "cd server && npm run dev",
+    "dev": "nodemon ./bin/www"
   },
   "repository": {
     "type": "git",
